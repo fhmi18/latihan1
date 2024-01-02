@@ -1,0 +1,36 @@
+body{
+    background-image:url("https://png.pngtree.com/background/20210711/original/pngtree-paper-wind-gradient-color-ball-background-material-picture-image_1143891.jpg");
+}
+
+div.navbar{
+    width: 400px;
+    height: 500px;
+    margin: 40px auto;
+    background-color:silver;
+}
+div.nav-container{
+    height: 42px;
+    width: 100%;
+    background-color: aliceblue;
+    display: block;
+}
+div.text-nav{
+    padding: 5px;
+    background-color: lightblue;
+    display: inline;
+    margin: 5px;
+    border-radius: 10px;
+    text-align: right;
+    float: left;
+
+}
+div.icon-nav{
+    padding: 5px;
+    background-color: lightblue;
+    display: inline;
+    margin: 5px;
+    border-radius: 10px;
+    text-align: left;
+    float: right;
+}
+

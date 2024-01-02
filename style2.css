@@ -1,0 +1,19 @@
+div.container{
+    width: 400px;
+    margin:40px auto;
+    height: 250px;
+    border: 2px solid green;
+    border-radius: 20px;
+}
+h2{
+  margin-left: 20px;  
+}
+input{
+    width: 90%;
+    height: 30px;
+    margin: 10px;
+}
+button{
+    width: 90%;
+    margin: 10px;
+}
